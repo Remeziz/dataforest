@@ -1,0 +1,5 @@
+bucket         = "some-bucket"
+dynamodb_table = "some-dynamodb"
+encrypt        = true
+key            = "infra.tfstate"
+region         = "us-east-1"
